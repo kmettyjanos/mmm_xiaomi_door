@@ -7,7 +7,7 @@
  * MIT Licensed.
  */
 
-Module.register('MMM-xiaomi', {
+Module.register('mmm_xiaomi_door', {
 
   requiresVersion: "2.0.0",
 
@@ -84,7 +84,7 @@ Module.register('MMM-xiaomi', {
   },
 
   getStyles: function() {
-    return ['MMM-xiaomi.css'];
+    return ['mmm_xiaomi_door.css'];
   },
 
   getDom: function() {

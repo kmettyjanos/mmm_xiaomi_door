@@ -1,7 +1,7 @@
 "use strict";
 
 /* Magic Mirror
- * Module: MMM-max
+ * Module: mm-max
  *
  * By mirko30000
  * MIT Licensed.
